@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "start": "node server.js",
+    "build": "echo \"Build step is not required for Vercel\"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harathi",
   "license": "ISC",
   "description": "",
   "dependencies": {
